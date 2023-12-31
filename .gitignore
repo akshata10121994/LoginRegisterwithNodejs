@@ -1,0 +1,9 @@
+.env
+node_modules
+node_modules/
+/node_modules
+/node_modules/
+
+# Ignore Node.js files
+node_modules/
+npm-debug.log
